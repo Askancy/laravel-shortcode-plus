@@ -9,10 +9,8 @@ class LeggiancheShortcode
 
         $id = preg_match('/\d+/', $shortcode->get('id'), $matches) ? $matches[0] : null;
 
-        if (class_exists('\App\Models\Article')) {
-            $article = \App\Models\Article::find($id);
-        } elseif (class_exists('\App\Models\Post')) {
-            $article = \App\Models\Post::find($id);
+        if (class_exists('\App\Models\Articoli')) {
+            $article = \App\Models\Articoli::find($id);
         } else {
             $article = null;
         }

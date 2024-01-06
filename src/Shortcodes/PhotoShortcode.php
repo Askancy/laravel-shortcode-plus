@@ -6,7 +6,7 @@ class PhotoShortcode
 {
     public function register($shortcode): string
     {
-        if (! class_exists('\Outl1ne\NovaMediaHub\Models\Media')) {
+        if (! class_exists('\App\Models\Media')) {
             return '';
         }
 
@@ -15,9 +15,9 @@ class PhotoShortcode
         if ($multipleIds) {
             $ids = explode(',', $multipleIds);
             if (count($ids) > 1) {
-                $images = \Outl1ne\NovaMediaHub\Models\Media::whereIn('id', $ids)->get();
+                $images = \App\Models\Media::whereIn('id', $ids)->get();
                 foreach ($images as $key => $image) {
-                    $images[$key]['src'] = $image->path.$image->file_name;
+                    $images[$key]['path'] = $image['data']['path'][0];
                     $images[$key]['title'] = $image['data']['title'][0] ?? null;
                     $images[$key]['alt'] = $image['data']['alt'][0] ?? null;
                 }
@@ -36,7 +36,7 @@ class PhotoShortcode
         }
 
         // Single image
-        $media = \Outl1ne\NovaMediaHub\Models\Media::find($shortcode->id);
+        $media = \App\Models\Media::find($shortcode->id);
         if (! $media) {
             return '';
         }
