@@ -73,6 +73,7 @@ class LaravelShortcodePlusServiceProvider extends PackageServiceProvider
         Shortcode::register('spoiler', SpoilerShortcode::class);
         Shortcode::register('twitter', TwitterShortcode::class);
         Shortcode::register('distico', DisticoShortcode::class);
+        Shortcode::register('widgetbay', WidgetbayShortcode::class);
         Shortcode::register('leggianche', LeggiancheShortcode::class);
         Shortcode::register('photo', PhotoShortcode::class);
         Shortcode::register('button', ButtonShortcode::class);
