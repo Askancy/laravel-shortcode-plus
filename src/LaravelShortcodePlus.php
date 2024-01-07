@@ -1,9 +1,9 @@
 <?php
 
-namespace askancy\LaravelShortcodePlus;
+namespace Murdercode\LaravelShortcodePlus;
 
-use askancy\LaravelShortcodePlus\Parsers\Gallery;
-use askancy\LaravelShortcodePlus\Parsers\Image;
+use Murdercode\LaravelShortcodePlus\Parsers\Gallery;
+use Murdercode\LaravelShortcodePlus\Parsers\Image;
 use Webwizo\Shortcodes\Facades\Shortcode;
 
 final class LaravelShortcodePlus

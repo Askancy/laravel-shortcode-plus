@@ -1,6 +1,6 @@
 <?php
 
-namespace askancy\LaravelShortcodePlus\Shortcodes;
+namespace Murdercode\LaravelShortcodePlus\Shortcodes;
 
 class WidgetbayShortcode
 {

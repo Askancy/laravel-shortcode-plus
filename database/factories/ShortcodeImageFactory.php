@@ -1,9 +1,9 @@
 <?php
 
-namespace askancy\LaravelShortcodePlus\Database\Factories;
+namespace Murdercode\LaravelShortcodePlus\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use askancy\LaravelShortcodePlus\Models\ShortcodeImage;
+use Murdercode\LaravelShortcodePlus\Models\ShortcodeImage;
 
 class ShortcodeImageFactory extends Factory
 {

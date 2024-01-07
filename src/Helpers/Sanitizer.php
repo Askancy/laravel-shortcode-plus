@@ -1,6 +1,6 @@
 <?php
 
-namespace askancy\LaravelShortcodePlus\Helpers;
+namespace Murdercode\LaravelShortcodePlus\Helpers;
 
 class Sanitizer
 {

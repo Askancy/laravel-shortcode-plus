@@ -1,24 +1,24 @@
 <?php
 
-namespace askancy\LaravelShortcodePlus;
+namespace Murdercode\LaravelShortcodePlus;
 
 use Illuminate\Support\Facades\Blade;
-use askancy\LaravelShortcodePlus\Shortcodes\ButtonShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\DisticoShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\FacebookShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\FaqShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\InstagramShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\LeggiancheShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\PhotoShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\RedditShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\SpoilerShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\SpotifyShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\SurveyShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\TikTokShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\TmdbShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\TwitterShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\WidgetbayShortcode;
-use askancy\LaravelShortcodePlus\Shortcodes\YoutubeShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\ButtonShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\DisticoShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\FacebookShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\FaqShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\InstagramShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\LeggiancheShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\PhotoShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\RedditShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\SpoilerShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\SpotifyShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\SurveyShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\TikTokShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\TmdbShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\TwitterShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\WidgetbayShortcode;
+use Murdercode\LaravelShortcodePlus\Shortcodes\YoutubeShortcode;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 use Webwizo\Shortcodes\Facades\Shortcode;
@@ -49,12 +49,12 @@ class LaravelShortcodePlusServiceProvider extends PackageServiceProvider
     public function packageBooted(): void
     {
         Blade::componentNamespace(
-            'askancy\LaravelShortcodePlus\View\Components',
+            'Murdercode\LaravelShortcodePlus\View\Components',
             'laravel-shortcode-plus'
         );
 
         Blade::componentNamespace(
-            'askancy\LaravelShortcodePlus\View\Components',
+            'Murdercode\LaravelShortcodePlus\View\Components',
             'laravel-shortcode-plus'
         );
     }
