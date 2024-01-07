@@ -11,12 +11,7 @@
   ],
   "homepage": "https://github.com/askancy/laravel-shortcode-plus",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Stefano Novelli",
-      "email": "askancy@gmail.com",
-      "role": "Developer"
-    }
+
   ],
   "require": {
     "php": "^8.1|^8.2",
