@@ -67,5 +67,6 @@
       }
     }
   },
-  "minimum-stability": "beta"
+    "minimum-stability": "beta",
+    "prefer-stable": true
 }
