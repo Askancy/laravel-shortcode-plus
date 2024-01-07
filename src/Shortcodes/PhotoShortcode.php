@@ -87,7 +87,7 @@ class PhotoShortcode
     public static function getImageHeight(string $path, int $width = 0): float|int
     {
 
-        $localPath = storage_path('app/public/'.$path);
+        $localPath = Storage::disk('s3_gallery')->url($path);
 
         // Check if file exists
         if (! file_exists($localPath)) {
