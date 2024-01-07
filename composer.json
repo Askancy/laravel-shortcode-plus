@@ -66,5 +66,6 @@
         "LaravelShortcodePlus": "askancy\\LaravelShortcodePlus\\Facades\\LaravelShortcodePlus"
       }
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
