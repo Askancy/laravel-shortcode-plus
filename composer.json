@@ -67,5 +67,5 @@
       }
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "beta"
 }
