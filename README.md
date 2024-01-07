@@ -1,13 +1,13 @@
-<p align="center"><img src="https://github.com/murdercode/laravel-shortcode-plus/raw/HEAD/art/laravel-shortcode-logo.svg" alt="Logo Laravel Shortcode Plus"></p>
+<p align="center"><img src="https://github.com/askancy/laravel-shortcode-plus/raw/HEAD/art/laravel-shortcode-logo.svg" alt="Logo Laravel Shortcode Plus"></p>
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/murdercode/laravel-shortcode-plus.svg?style=flat-square)](https://packagist.org/packages/murdercode/laravel-shortcode-plus)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/murdercode/laravel-shortcode-plus/run-tests.yml?branch=main&label=pest)](https://github.com/murdercode/laravel-shortcode-plus/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub PHPStan](https://img.shields.io/github/actions/workflow/status/murdercode/laravel-shortcode-plus/phpstan.yml?branch=main&label=phpstan)](https://github.com/murdercode/laravel-shortcode-plus/actions?query=workflow%3Aphpstan+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/murdercode/laravel-shortcode-plus/fix-php-code-style-issues.yml?branch=main&label=pint)](https://github.com/murdercode/laravel-shortcode-plus/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Maintainability](https://api.codeclimate.com/v1/badges/ebf1003822baede56567/maintainability)](https://codeclimate.com/github/murdercode/laravel-shortcode-plus/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/ebf1003822baede56567/test_coverage)](https://codeclimate.com/github/murdercode/laravel-shortcode-plus/test_coverage)
-![License Mit](https://img.shields.io/github/license/murdercode/laravel-shortcode-plus)
-[![Total Downloads](https://img.shields.io/packagist/dt/murdercode/laravel-shortcode-plus.svg?style=flat-square)](https://packagist.org/packages/murdercode/laravel-shortcode-plus)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/askancy/laravel-shortcode-plus.svg?style=flat-square)](https://packagist.org/packages/askancy/laravel-shortcode-plus)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/askancy/laravel-shortcode-plus/run-tests.yml?branch=main&label=pest)](https://github.com/askancy/laravel-shortcode-plus/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub PHPStan](https://img.shields.io/github/actions/workflow/status/askancy/laravel-shortcode-plus/phpstan.yml?branch=main&label=phpstan)](https://github.com/askancy/laravel-shortcode-plus/actions?query=workflow%3Aphpstan+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/askancy/laravel-shortcode-plus/fix-php-code-style-issues.yml?branch=main&label=pint)](https://github.com/askancy/laravel-shortcode-plus/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ebf1003822baede56567/maintainability)](https://codeclimate.com/github/askancy/laravel-shortcode-plus/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ebf1003822baede56567/test_coverage)](https://codeclimate.com/github/askancy/laravel-shortcode-plus/test_coverage)
+![License Mit](https://img.shields.io/github/license/askancy/laravel-shortcode-plus)
+[![Total Downloads](https://img.shields.io/packagist/dt/askancy/laravel-shortcode-plus.svg?style=flat-square)](https://packagist.org/packages/askancy/laravel-shortcode-plus)
 
 ---
 
@@ -59,7 +59,7 @@ the best SEO practices around.
 You can install the package via composer:
 
 ```bash
-composer require murdercode/laravel-shortcode-plus
+composer require askancy/laravel-shortcode-plus
 ```
 
 You can use shortcodes CSS publishing the assets:
@@ -118,7 +118,7 @@ import '/public/vendor/shortcode-plus/app2.js';
 Now you can parse your source as follows:
 
 ```php
-use Murdercode\LaravelShortcodePlus\Facades\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\Facades\LaravelShortcodePlus;
 
 $html = "I want to parse this twitter tag: [twitter url=\"https://twitter.com/elonmusk/status/1585841080431321088\"]";
 return LaravelShortcodePlus::source($html)->parseAll();
@@ -224,7 +224,7 @@ vulnerabilities.
 
 ## Credits
 
-- [Stefano Novelli](https://github.com/murdercode)
+- [Stefano Novelli](https://github.com/askancy)
 - [All Contributors](../../contributors)
 
 ## License

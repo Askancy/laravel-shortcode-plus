@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\Facades\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\Facades\LaravelShortcodePlus;
 
 it('can parse tiktok shortcode', function () {
     $html = '[tiktok url="https://www.tiktok.com/@tomshardwareita/video/7264641716760628513?lang=it-IT"]';

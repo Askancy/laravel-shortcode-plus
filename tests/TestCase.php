@@ -1,9 +1,9 @@
 <?php
 
-namespace Murdercode\LaravelShortcodePlus\Tests;
+namespace askancy\LaravelShortcodePlus\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlusServiceProvider;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlusServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
@@ -32,7 +32,7 @@ class TestCase extends Orchestra
         Factory::guessFactoryNamesUsing(
             fn (
                 string $modelName
-            ) => 'Murdercode\\LaravelShortcodePlus\\Database\\Factories\\'.class_basename(
+            ) => 'askancy\\LaravelShortcodePlus\\Database\\Factories\\'.class_basename(
                 $modelName
             ).'Factory'
         );

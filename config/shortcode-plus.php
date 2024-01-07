@@ -4,7 +4,7 @@ return [
     'model' => [
         'image' => [
             // Your model class
-            'class' => Murdercode\LaravelShortcodePlus\Models\ShortcodeImage::class,
+            'class' => askancy\LaravelShortcodePlus\Models\ShortcodeImage::class,
             'attributes' => [
                 'caption' => 'caption',
                 'credits' => 'credits',

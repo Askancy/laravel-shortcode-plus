@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
 
 it('can parse faq shortcode', function () {
     $html = '[faq title="What is the difference between a shortcode and a tag?"]Boh![/faq]';

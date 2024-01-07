@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
 
 it('can parse widgetbay shortcode', function () {
     $html = '[widgetbay id="1"]';

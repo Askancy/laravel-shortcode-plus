@@ -20,7 +20,7 @@
 >
 
     <testsuites>
-        <testsuite name="Murdercode Test Suite">
+        <testsuite name="askancy Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

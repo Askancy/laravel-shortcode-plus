@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
 
 it('can parse reddit shortcode', function () {
     $html = '[reddit url="https://www.reddit.com/r/aww/comments/owx3x/this_is_my_friend_bob/"]';

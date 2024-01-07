@@ -1,20 +1,20 @@
 {
-  "name": "murdercode/laravel-shortcode-plus",
+  "name": "askancy/laravel-shortcode-plus",
   "description": "A package that allows you to use custom shortcodes",
   "keywords": [
-    "murdercode",
+    "askancy",
     "laravel",
     "laravel-shortcode-plus",
     "shortcode",
     "shortcodes",
     "embed"
   ],
-  "homepage": "https://github.com/murdercode/laravel-shortcode-plus",
+  "homepage": "https://github.com/askancy/laravel-shortcode-plus",
   "license": "MIT",
   "authors": [
     {
       "name": "Stefano Novelli",
-      "email": "murdercode@gmail.com",
+      "email": "askancy@gmail.com",
       "role": "Developer"
     }
   ],
@@ -41,13 +41,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Murdercode\\LaravelShortcodePlus\\": "src",
-      "Murdercode\\LaravelShortcodePlus\\Database\\Factories\\": "database/factories"
+      "askancy\\LaravelShortcodePlus\\": "src",
+      "askancy\\LaravelShortcodePlus\\Database\\Factories\\": "database/factories"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Murdercode\\LaravelShortcodePlus\\Tests\\": "tests"
+      "askancy\\LaravelShortcodePlus\\Tests\\": "tests"
     }
   },
   "scripts": {
@@ -67,10 +67,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Murdercode\\LaravelShortcodePlus\\LaravelShortcodePlusServiceProvider"
+        "askancy\\LaravelShortcodePlus\\LaravelShortcodePlusServiceProvider"
       ],
       "aliases": {
-        "LaravelShortcodePlus": "Murdercode\\LaravelShortcodePlus\\Facades\\LaravelShortcodePlus"
+        "LaravelShortcodePlus": "askancy\\LaravelShortcodePlus\\Facades\\LaravelShortcodePlus"
       }
     }
   },

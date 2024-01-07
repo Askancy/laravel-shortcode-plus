@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
 
 it('can parse spoiler shortcode', function () {
     $html = '[spoiler]This is a spoiler![/spoiler]';

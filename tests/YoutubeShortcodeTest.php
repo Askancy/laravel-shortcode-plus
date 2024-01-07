@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
 
 it('can parse youtube shortcode', function () {
     $html = '[youtube url="https://www.youtube.com/watch?v=9bZkp7q19f0"]';

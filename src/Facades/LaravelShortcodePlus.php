@@ -1,18 +1,18 @@
 <?php
 
-namespace Murdercode\LaravelShortcodePlus\Facades;
+namespace askancy\LaravelShortcodePlus\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 // @codeCoverageIgnoreStart
 /**
- * @see \Murdercode\LaravelShortcodePlus\LaravelShortcodePlus
+ * @see \askancy\LaravelShortcodePlus\LaravelShortcodePlus
  */
 class LaravelShortcodePlus extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return \Murdercode\LaravelShortcodePlus\LaravelShortcodePlus::class;
+        return \askancy\LaravelShortcodePlus\LaravelShortcodePlus::class;
     }
 }
 // @codeCoverageIgnoreEnd

@@ -6,21 +6,21 @@ All notable changes to `laravel-shortcode-plus` will be documented in this file.
 
 ### What's Changed
 
-* Create survey shortcode by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/64
+* Create survey shortcode by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/64
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.1.7...v4.1.8
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.1.7...v4.1.8
 
 ## v4.1.7 - 2023-12-22
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.1.6...v4.1.7
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.1.6...v4.1.7
 
 ## v4.1.6 - 2023-12-21
 
 ### What's Changed
 
-* Fix carousel width by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/63
+* Fix carousel width by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/63
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.1.5...v4.1.6
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.1.5...v4.1.6
 
 ## 4.1.5 - 2023-12-21
 
@@ -28,98 +28,98 @@ Better carousel layout
 
 ## v4.1.4 - 2023-12-18
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.1.3...v4.1.4
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.1.3...v4.1.4
 
 ## v4.1.3 - 2023-12-18
 
 ### What's Changed
 
-* Bump vite from 4.4.9 to 4.4.12 by @dependabot in https://github.com/murdercode/laravel-shortcode-plus/pull/57
-* Update Twitter card height to 500px by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/58
-* Fix TMDB layout by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/60
+* Bump vite from 4.4.9 to 4.4.12 by @dependabot in https://github.com/askancy/laravel-shortcode-plus/pull/57
+* Update Twitter card height to 500px by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/58
+* Fix TMDB layout by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/60
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.1.2...v4.1.3
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.1.2...v4.1.3
 
 ## v4.1.2 - 2023-11-13
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.1.1...v4.1.2
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.1.1...v4.1.2
 
 ## v4.1.1 - 2023-11-13
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.1.0...v4.1.1
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.1.0...v4.1.1
 
 ## v4.1.0 - 2023-11-13
 
 ### What's Changed
 
-- Widgetbay link widgetbox by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/52
+- Widgetbay link widgetbox by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/52
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.0.2...v4.1.0
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.0.2...v4.1.0
 
 ## v4.0.2 - 2023-11-08
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.0.1...v4.0.2
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.0.1...v4.0.2
 
 ## v4.0.1 - 2023-10-30
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v4.0.0...v4.0.1
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v4.0.0...v4.0.1
 
 ## v4.0.0 - 2023-10-30
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.12...v4.0.0
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.12...v4.0.0
 
 ## v3.0.12 - 2023-10-26
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.11...v3.0.12
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.11...v3.0.12
 
 ## v3.0.11 - 2023-10-24
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.10...v3.0.11
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.10...v3.0.11
 
 ## v3.0.10 - 2023-10-17
 
 ### What's Changed
 
-- Add support for multiple Splide (carousel) by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/48
+- Add support for multiple Splide (carousel) by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/48
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.9...v3.0.10
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.9...v3.0.10
 
 ## v3.0.9 - 2023-10-12
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.8...v3.0.9
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.8...v3.0.9
 
 ## v3.0.8 - 2023-10-12
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.7...v3.0.8
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.7...v3.0.8
 
 ## v3.0.7 - 2023-10-12
 
 ### What's Changed
 
-- Fix loading twitter card by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/47
+- Fix loading twitter card by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/47
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.6...v3.0.7
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.6...v3.0.7
 
 ## v3.0.6 - 2023-10-10
 
 ### What's Changed
 
-- Add shape images by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/44
-- Bump postcss from 8.4.28 to 8.4.31 by @dependabot in https://github.com/murdercode/laravel-shortcode-plus/pull/45
+- Add shape images by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/44
+- Bump postcss from 8.4.28 to 8.4.31 by @dependabot in https://github.com/askancy/laravel-shortcode-plus/pull/45
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.4...v3.0.6
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.4...v3.0.6
 
 ## v3.0.5 - 2023-10-04
 
 ### What's Changed
 
-- Add shape images by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/44
+- Add shape images by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/44
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.4...v3.0.5
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.4...v3.0.5
 
 ## v3.0.4 - 2023-10-03
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.2...v3.0.4
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.2...v3.0.4
 
 Fix special characters on button shortcode
 
@@ -128,41 +128,41 @@ Fix special characters on button shortcode
 ### What's Changed
 
 - Add target _blank to photo link
-- Add tiktok shortcode by @murdercode in https://github.com/murdercode/laravel-shortcode-plus/pull/33
-- 36 add carousel in photo by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/38
+- Add tiktok shortcode by @askancy in https://github.com/askancy/laravel-shortcode-plus/pull/33
+- 36 add carousel in photo by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/38
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.7...v3.0.3
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.7...v3.0.3
 
 ## v3.0.2 - 2023-08-29
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.1...v3.0.2
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.1...v3.0.2
 
 ## v3.0.1 - 2023-08-24
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v3.0.0...v3.0.1
-[Add width on carousel image](https://github.com/murdercode/laravel-shortcode-plus/commit/5a6ed40348257735a98703914f55a61c31a171a5)
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v3.0.0...v3.0.1
+[Add width on carousel image](https://github.com/askancy/laravel-shortcode-plus/commit/5a6ed40348257735a98703914f55a61c31a171a5)
 
 ## v3.0.0 - 2023-08-23
 
 ### What's Changed
 
-- 36 add carousel in photo by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/38
+- 36 add carousel in photo by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/38
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.8...v3.0.0
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.8...v3.0.0
 
 ## v2.1.8 - Add TikTok support - 2023-08-10
 
 ### What's Changed
 
-- Add tiktok shortcode by @murdercode in https://github.com/murdercode/laravel-shortcode-plus/pull/33
+- Add tiktok shortcode by @askancy in https://github.com/askancy/laravel-shortcode-plus/pull/33
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.7...v2.1.8
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.7...v2.1.8
 
 ## Fix JustWatch text - 2023-08-02
 
 - As requested by JustWatch, add JustWatch in span for better Google results
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.6...v2.1.7
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.6...v2.1.7
 
 ## v2.1.6 - 2023-08-01
 
@@ -172,72 +172,72 @@ Fix special characters on button shortcode
 
 ### What's Changed
 
-- Cleanup by @murdercode in https://github.com/murdercode/laravel-shortcode-plus/pull/30
-- Tmdb shortcode by @Claudio-Emmolo in https://github.com/murdercode/laravel-shortcode-plus/pull/32
+- Cleanup by @askancy in https://github.com/askancy/laravel-shortcode-plus/pull/30
+- Tmdb shortcode by @Claudio-Emmolo in https://github.com/askancy/laravel-shortcode-plus/pull/32
 
 ### New Contributors
 
-- @Claudio-Emmolo made their first contribution in https://github.com/murdercode/laravel-shortcode-plus/pull/32
+- @Claudio-Emmolo made their first contribution in https://github.com/askancy/laravel-shortcode-plus/pull/32
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.4...v2.1.5
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.4...v2.1.5
 
 ## New shortcode [button] - 2023-07-26
 
 ### What's Changed
 
 - Now we can render a `[button link="#" label"#"]` shortcode
-- A shortcode button by @murdercode in https://github.com/murdercode/laravel-shortcode-plus/pull/29
+- A shortcode button by @askancy in https://github.com/askancy/laravel-shortcode-plus/pull/29
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.3...v2.1.4
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.3...v2.1.4
 
 ## v2.1.3 - 2023-07-03
 
 ### What's Changed
 
-- Bump dependabot/fetch-metadata from 1.5.1 to 1.6.0 by @dependabot in https://github.com/murdercode/laravel-shortcode-plus/pull/28
+- Bump dependabot/fetch-metadata from 1.5.1 to 1.6.0 by @dependabot in https://github.com/askancy/laravel-shortcode-plus/pull/28
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.2...v2.1.3
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.2...v2.1.3
 
 ## v2.1.1 - 2023-07-03
 
 ### What's Changed
 
 - Can get image sizes for [photo] shortcode
-- Bump aglipanci/laravel-pint-action from 2.1.0 to 2.3.0 by @dependabot in https://github.com/murdercode/laravel-shortcode-plus/pull/26
-- Bump dependabot/fetch-metadata from 1.3.6 to 1.5.1 by @dependabot in https://github.com/murdercode/laravel-shortcode-plus/pull/27
+- Bump aglipanci/laravel-pint-action from 2.1.0 to 2.3.0 by @dependabot in https://github.com/askancy/laravel-shortcode-plus/pull/26
+- Bump dependabot/fetch-metadata from 1.3.6 to 1.5.1 by @dependabot in https://github.com/askancy/laravel-shortcode-plus/pull/27
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.1.0...v2.1.1
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.1.0...v2.1.1
 
 ## v2.1.0 - 2023-05-25
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v2.0.3...v2.1.0
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v2.0.3...v2.1.0
 
 ## v.1.2.5 - 2022-12-01
 
 ### What's Changed
 
 - fix component render method by @DispatchCode
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/15
+- in https://github.com/askancy/laravel-shortcode-plus/pull/15
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v1.2.4...v1.2.5
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v1.2.4...v1.2.5
 
 ## v1.2.4 - 2022-12-01
 
 ### What's Changed
 
 - fix title using addslashes by @DispatchCode
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/14
+- in https://github.com/askancy/laravel-shortcode-plus/pull/14
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v1.2.3...v1.2.4
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v1.2.3...v1.2.4
 
 ## v1.2.3 - 2022-12-01
 
 ### What's Changed
 
 - Feature/livewire modal images by @DispatchCode
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/13
+- in https://github.com/askancy/laravel-shortcode-plus/pull/13
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v1.2.2...v1.2.3
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v1.2.2...v1.2.3
 
 ## v1.2.2 - 2022-11-28
 
@@ -248,41 +248,41 @@ Fix special characters on button shortcode
 ### What's Changed
 
 - bugfix gallery tag on readme by @DispatchCode
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/4
+- in https://github.com/askancy/laravel-shortcode-plus/pull/4
 - Loading all migrations from the migrations folder by @DispatchCode
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/5
+- in https://github.com/askancy/laravel-shortcode-plus/pull/5
 - Bump dependabot/fetch-metadata from 1.3.4 to 1.3.5 by @dependabot
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/6
+- in https://github.com/askancy/laravel-shortcode-plus/pull/6
 
 ### New Contributors
 
 - @dependabot made their first contribution
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/6
+- in https://github.com/askancy/laravel-shortcode-plus/pull/6
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v1.2.0...v1.2.1
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v1.2.0...v1.2.1
 
 ## v1.2.0 - 2022-11-05
 
 ### What's Changed
 
 - Feature/gallery parser by @DispatchCode
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/3
+- in https://github.com/askancy/laravel-shortcode-plus/pull/3
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v1.1.0...v1.2.0
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v1.1.0...v1.2.0
 
 ## v1.1.0 - 2022-11-04
 
 ### What's Changed
 
 - Feature/image parser by @DispatchCode
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/2
+- in https://github.com/askancy/laravel-shortcode-plus/pull/2
 
 ### New Contributors
 
 - @DispatchCode made their first contribution
-- in https://github.com/murdercode/laravel-shortcode-plus/pull/2
+- in https://github.com/askancy/laravel-shortcode-plus/pull/2
 
-**Full Changelog**: https://github.com/murdercode/laravel-shortcode-plus/compare/v1.0.0...v1.1.0
+**Full Changelog**: https://github.com/askancy/laravel-shortcode-plus/compare/v1.0.0...v1.1.0
 
 ## v1.0.0 - 2022-11-02
 

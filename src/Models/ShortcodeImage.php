@@ -1,6 +1,6 @@
 <?php
 
-namespace Murdercode\LaravelShortcodePlus\Models;
+namespace askancy\LaravelShortcodePlus\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

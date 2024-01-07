@@ -1,9 +1,9 @@
 <?php
 
-namespace Murdercode\LaravelShortcodePlus\Parsers;
+namespace askancy\LaravelShortcodePlus\Parsers;
 
-use Murdercode\LaravelShortcodePlus\Helpers\ModelHelper;
-use Murdercode\LaravelShortcodePlus\Helpers\Sanitizer;
+use askancy\LaravelShortcodePlus\Helpers\ModelHelper;
+use askancy\LaravelShortcodePlus\Helpers\Sanitizer;
 
 class Gallery
 {

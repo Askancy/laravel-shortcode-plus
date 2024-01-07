@@ -1,7 +1,7 @@
 <?php
 
-// use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
-// use Murdercode\LaravelShortcodePlus\Models\ShortcodeImage;
+// use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
+// use askancy\LaravelShortcodePlus\Models\ShortcodeImage;
 
 // it('can parse a Gallery shortcode', function () {
 //     $images = ShortcodeImage::factory(2)->create();

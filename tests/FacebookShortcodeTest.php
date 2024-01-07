@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
 
 it('can parse facebook shortcode', function () {
     $html = '[facebook url="https://www.facebook.com/elonmusk/posts/10157710103910177"]';

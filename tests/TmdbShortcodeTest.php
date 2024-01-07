@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\Facades\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\Facades\LaravelShortcodePlus;
 
 it('can render tmdb button', function () {
 

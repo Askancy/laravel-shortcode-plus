@@ -1,6 +1,6 @@
 <?php
 
-namespace Murdercode\LaravelShortcodePlus\Shortcodes;
+namespace askancy\LaravelShortcodePlus\Shortcodes;
 
 use Illuminate\Support\Facades\Http;
 

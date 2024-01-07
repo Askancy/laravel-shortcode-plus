@@ -1,6 +1,6 @@
 <?php
 
-use Murdercode\LaravelShortcodePlus\LaravelShortcodePlus;
+use askancy\LaravelShortcodePlus\LaravelShortcodePlus;
 
 it('can parse spotify shortcode with uri', function () {
     $html = '[spotify uri="spotify:album:1DFixLWuPkv3KT3TnV35m3"]';
