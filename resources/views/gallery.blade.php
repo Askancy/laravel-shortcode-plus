@@ -27,11 +27,11 @@
 				@endif
 
 		  glightbox hover:brightness-110 relative"
-				   href="{{ asset('storage/' . $image['path']) }}"
+				   href="{{Storage::disk('s3_gallery')->url($image['path'])}}"
 				   aria-label="{{ $image['alternative_text'] }}"
 				   data-glightbox="{{ addslashes($image['title']) }}">
 					<img class="aspect-square relative object-cover w-full h-full cursor-pointer"
-					     src="{{ asset('storage/' . $image['path']) }}?height=400"
+					     src="{{ Storage::disk('s3_gallery')->url($image['path']) }}?height=400"
 					     alt="{{ $image['alternative_text'] }}"
 					     title="Clicca per vedere l'immagine originale"
 					loading="lazy"/>
@@ -47,7 +47,7 @@
 
 				{{-- Hidden images --}}
 			@else($loop->iteration > 5)
-				<a href="{{ asset('storage/' . $image['path']) }}" class="hidden glightbox"></a>
+				<a href="{{ Storage::disk('s3_gallery')->url($image['path']) }}" class="hidden glightbox"></a>
 			@endif
 		@endforeach
 	</div>

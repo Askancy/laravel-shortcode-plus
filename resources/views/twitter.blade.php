@@ -5,3 +5,4 @@
 @else
 	<p>Sorry, no tweets found.</p>
 @endif
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

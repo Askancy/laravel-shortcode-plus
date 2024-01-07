@@ -7,7 +7,7 @@
     @endif
     <figure>
         {{-- <a href="{{ asset('storage/' . $path) }}" class="glightbox" data-glightbox="{{ addslashes($title) }}"> --}}
-        <img class="mx-auto cursor-pointer" src="{{ asset('storage/' . $path) }}" alt="{{ $alternative_text }}"
+        <img class="mx-auto cursor-pointer" src="{{ Storage::disk('s3_gallery')->url($path) }}" alt="{{ $alternative_text }}"
             title="Clicca per vedere l'immagine originale" loading="lazy" width="{{ $width }}"
             height="{{ $height }}" />
         {{-- </a> --}}
